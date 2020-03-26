@@ -24,7 +24,7 @@ for (var x = 0; x <= 200; x++) {
         // console.log(x + " is even");
         output += x + " is even <br />";
     }
-    else if (x % 2 !== 0) {
+    else {
         // console.log(x + " is odd");
         output += x + " is odd <br />";
     }
